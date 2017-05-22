@@ -1,0 +1,1 @@
+# KeepAdapterClean-android-example
